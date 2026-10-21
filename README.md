@@ -15,7 +15,8 @@ Power BI (DAX, Power Query), Tableau, SQL, Python (pandas), Excel
 ## Projects
 
 ### 1. TURO Business Progress (Tableau)
-![Dashboard screenshot](images/turo-dashboard.png)
+<img width="2374" height="1415" alt="TURO Business Progress" src="https://github.com/user-attachments/assets/69a79841-d610-453f-9371-fdf2b6c99cfa" />
+
 
 - **Live dashboard:** https://public.tableau.com/app/profile/malaika.nukala/viz/Turo_17704949609860/TUROBusinessProgress
 - **Dataset:** [source and link]
@@ -23,8 +24,8 @@ Power BI (DAX, Power Query), Tableau, SQL, Python (pandas), Excel
 - **What I found:** [2-3 lines with real numbers]
 - **Skills used:** [calculated fields, KPIs, filters, parameters]
 
-### 2. [Project name] (Power BI)
-![Dashboard screenshot](images/powerbi-dashboard.png)
+### 2. NYC Taxi Analysis (Power BI)
+<img width="2383" height="1600" alt="Final Dashboard" src="https://github.com/user-attachments/assets/bad8e8c8-dbc2-4e31-b026-4b8723db8628" />
 
 - **Files:** [`project.pbix`](powerbi/project.pbix)
 - **Dataset:** [public dataset link]
